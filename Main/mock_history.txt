@@ -1,0 +1,195 @@
+
+
+==========2024-04-20 14:57:27==========
+
+1. What is the full form of MVC?
+  * (A) Model View Controller
+  * (B) Model Version Control
+  * (C) Mobile Video Conference
+  * (D) None of the above
+
+* Answer: (A)
+
+2. Which of the following is not a part of MVC?
+  * (A) Model
+  * (B) View
+  * (C) Controller
+  * (D) Router
+
+* Answer: (D)
+
+3. What is the purpose of the model in MVC?
+  * (A) To store data
+  * (B) To display data
+  * (C) To process data
+  * (D) All of the above
+
+* Answer: (D)
+
+4. What is the purpose of the view in MVC?
+  * (A) To store data
+  * (B) To display data
+  * (C) To process data
+  * (D) None of the above
+
+* Answer: (B)
+
+5. What is the purpose of the controller in MVC?
+  * (A) To store data
+  * (B) To display data
+  * (C) To process data
+  * (D) To route requests
+
+* Answer: (D)
+
+6. What is the MVC pattern used for?
+  * (A) Web applications
+  * (B) Mobile applications
+  * (C) Desktop applications
+  * (D) All of the above
+
+* Answer: (D)
+
+7. What are the benefits of using the MVC pattern?
+  * (A) Increased code reusability
+  * (B) Improved separation of concerns
+  * (C) Increased testability
+  * (D) All of the above
+
+* Answer: (D)
+
+8. What are the drawbacks of using the MVC pattern?
+  * (A) Increased complexity
+  * (B) Increased development time
+  * (C) Increased memory usage
+  * (D) None of the above
+
+* Answer: (A)
+
+9. When should you not use the MVC pattern?
+  * (A) When the application is small
+  * (B) When the application is simple
+  * (C) When the application is not complex
+  * (D) None of the above
+
+* Answer: (A)
+
+10. What are some alternatives to the MVC pattern?
+  * (A) The Model-View-Adapter pattern
+  * (B) The Model-View-Presenter pattern
+  * (C) The Model-View-Intent pattern
+  * (D) All of the above
+
+* Answer: (D)
+
+Answers:
+
+1. (A)
+2. (D)
+3. (D)
+4. (B)
+5. (D)
+6. (D)
+7. (D)
+8. (A)
+9. (A)
+10. (D)
+
+
+==========2024-02-23 21:43:20==========
+
+1. What is the full form of AI?
+(A) Artificial Intelligence
+(B) Artificial Idiot
+(C) Artificial Intelligences
+(D) Artificial Intellect
+
+Answer: (A)
+
+2. Who coined the term "artificial intelligence"?
+(A) John McCarthy
+(B) Alan Turing
+(C) Marvin Minsky
+(D) Herbert Simon
+
+Answer: (A)
+
+3. What is the Turing test?
+(A) A test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
+(B) A test of a machine's ability to pass as human.
+(C) A test of a machine's ability to learn.
+(D) A test of a machine's ability to solve problems.
+
+Answer: (A)
+
+4. What are the 3 main types of AI?
+(A) Narrow AI, General AI, and Super AI
+(B) Weak AI, Strong AI, and Super AI
+(C) Artificial Stupidity, Artificial Intelligence, and Artificial Superintelligence
+(D) Artificial Narrow Intelligence, Artificial General Intelligence, and Artificial Superintelligence
+
+Answer: (D)
+
+5. What is Narrow AI?
+(A) AI that is designed to perform a specific task or set of tasks.
+(B) AI that is designed to be as intelligent as a human.
+(C) AI that is designed to be smarter than a human.
+(D) AI that is designed to control the world.
+
+Answer: (A)
+
+6. What is General AI?
+(A) AI that is designed to perform a specific task or set of tasks.
+(B) AI that is designed to be as intelligent as a human.
+(C) AI that is designed to be smarter than a human.
+(D) AI that is designed to control the world.
+
+Answer: (B)
+
+7. What is Super AI?
+(A) AI that is designed to perform a specific task or set of tasks.
+(B) AI that is designed to be as intelligent as a human.
+(C) AI that is designed to be smarter than a human.
+(D) AI that is designed to control the world.
+
+Answer: (C)
+
+8. What are some of the benefits of AI?
+(A) AI can help us to solve complex problems.
+(B) AI can help us to automate tasks.
+(C) AI can help us to learn new things.
+(D) All of the above.
+
+Answer: (D)
+
+9. What are some of the risks of AI?
+(A) AI could be used to create autonomous weapons systems.
+(B) AI could be used to create surveillance systems that are too powerful.
+(C) AI could be used to create systems that are biased against certain groups of people.
+(D) All of the above.
+
+Answer: (D)
+
+10. What is the future of AI?
+(A) AI will continue to grow in power and sophistication.
+(B) AI will eventually become self-aware and pose a threat to humanity.
+(C) AI will eventually replace humans in all jobs.
+(D) It is impossible to say.
+
+Answer: (A)
+
+Answers:
+1. (A)
+2. (A)
+3. (A)
+4. (D)
+5. (A)
+6. (B)
+7. (C)
+8. (D)
+9. (D)
+10. (A)
+
+
+
+
